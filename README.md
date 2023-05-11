@@ -11,6 +11,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 👀 My [GIST](https://gist.github.com/MiguelAngelLardo)
+
 - 🔭 I’m currently working on [Complejo Sierra Brava](https://miguelangellardo.github.io/TP_Final_CodoACodo/)
 
 - 🌱 I’m currently learning **HTML, CSS, JS, VUE, PYTHON, MySQL**
